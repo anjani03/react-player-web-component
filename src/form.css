@@ -1,0 +1,45 @@
+body{
+    box-sizing: border-box;
+    background-color: rgb(226, 224, 224);
+}
+
+.main{
+    background-color: rgb(143, 145, 143);
+    text-align: center;
+    padding: 4px;
+}
+
+.list{
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    padding: 12px;
+    margin: 6px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding: 8px;
+    margin-top: -145px;
+}
+
+input{
+    width: 400px;
+    background-color: gray;
+    text-align: center;
+}
+
+button{
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+}
+
+.iframeVid{
+    width:420px;
+    height:345px;
+    border-radius: 12px;
+}

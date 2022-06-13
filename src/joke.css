@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(248, 239, 239);
+    text-align: center;
+}
+
+.main{
+    width: 600px;
+    margin: 18% auto;
+    background-color: rgba(0,0,0,0.4);
+    /* border: 1px solid black; */
+    border-radius: 12px;
+}
+
+.content{
+    margin-top: 12px;
+}
+
+input{
+    width: 280px;
+    text-align: center;
+    background-color: rgb(171, 173, 173);
+    padding: 12px;
+    margin: 12px;
+}
+
+#btn{
+    width: 220px;
+    margin: 8px;
+    background-color: rgb(8, 8, 8);
+    color: aliceblue;
+}
